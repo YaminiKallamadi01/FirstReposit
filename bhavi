@@ -1,1 +1,2 @@
 Git cherry-pick is a command in Git that allows you to take a specifi c commit from one branch and apply it to another branch. It's like picking a cherry (commit) from one branch and adding it to another branch, allowing you to selectively copy individual commits without merging the entire branch.
+hello  bhavi
